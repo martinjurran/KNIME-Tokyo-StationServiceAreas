@@ -1,4 +1,4 @@
-# BreadcrumbsKNIME-Tokyo-RestaurantDensity
+# KNIME-Tokyo-RestaurantDensity
 This repository accompanies the blog post on Voronoi diagrams and their applications in data analysis. You can read the full blog post here.
 
 [link]
