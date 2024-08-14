@@ -1,4 +1,4 @@
-# KNIME-Tokyo-RestaurantDensity
+# KNIME-Tokyo-StationServiceAreas
 This repository accompanies the blog post on Voronoi diagrams and their applications in data analysis. You can read the full blog post here.
 
 [link]
@@ -11,7 +11,7 @@ To get started with the KNIME workflow, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/martinjurran/KNIME-Tokyo-RestaurantDensity.git
+git clone https://github.com/martinjurran/KNIME-Tokyo-StationServiceAreas.git
 cd KNIME-Tokyo-RestaurantDensity
 
 ```
