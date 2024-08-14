@@ -18,6 +18,9 @@ Download and install KNIME from the official website.
 Open the workflow:
 3. Launch KNIME.
 Open the voronoi_diagrams.knwf file from the cloned repository.
-4. Run the workflow:
-Follow the instructions within the KNIME interface to execute the workflow and analyze the data.
-Feel free to customize this template further to fit your specific needs! If you need any more sections or details, just let me know.
+4. Open the workflow:
+Follow the instructions within the KNIME interface.
+5. Connect data sources:
+Connect the data sources within KNIME. They need to be connected within the Geofile Reader nodes.
+ 5. Execute the workflow:
+Execute the workflow and analyze the data.
