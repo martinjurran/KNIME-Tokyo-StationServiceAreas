@@ -10,17 +10,20 @@ Voronoi diagrams are powerful tools in data analysis, offering insights into spa
 To get started with the KNIME workflow, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/voronoi-diagrams-data-analysis.git
-cd voronoi-diagrams-data-analysis
+```
+git clone [https://github.com/martinjurran/KNIME-Tokyo-RestaurantDensity.git](https://github.com/martinjurran/KNIME-Tokyo-RestaurantDensity.git)
+cd BreadcrumbsKNIME-Tokyo-RestaurantDensity
 
-2. Install KNIME:
+```
+
+3. Install KNIME:
 Download and install KNIME from the official website.
 Open the workflow:
-3. Launch KNIME.
+4. Launch KNIME.
 Open the voronoi_diagrams.knwf file from the cloned repository.
-4. Open the workflow:
+5. Open the workflow:
 Follow the instructions within the KNIME interface.
-5. Connect data sources:
+6. Connect data sources:
 Connect the data sources within KNIME. They need to be connected within the Geofile Reader nodes.
  5. Execute the workflow:
 Execute the workflow and analyze the data.
