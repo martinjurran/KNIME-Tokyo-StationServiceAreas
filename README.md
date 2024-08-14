@@ -12,7 +12,7 @@ To get started with the KNIME workflow, follow these steps:
 1. Clone the repository:
 ```
 git clone https://github.com/martinjurran/KNIME-Tokyo-RestaurantDensity.git
-cd BreadcrumbsKNIME-Tokyo-RestaurantDensity
+cd KNIME-Tokyo-RestaurantDensity
 
 ```
 
