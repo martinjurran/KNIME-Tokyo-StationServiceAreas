@@ -1,7 +1,7 @@
 # KNIME-Tokyo-StationServiceAreas
 This repository accompanies the blog post on Voronoi diagrams and their applications in data analysis. You can read the full blog post here.
 
-[link]
+[Everything you need to know about Voronoi Diagrams: Analyze Service Areas of Transit Stations in Tokyo](https://medium.com/towards-data-science/data-snack-use-voronoi-to-analyze-service-areas-of-transit-stations-in-tokyo-b1179b9dc2a3)
 
 ## Introduction
 Voronoi diagrams are powerful tools in data analysis, offering insights into spatial relationships and distributions. This repository includes a KNIME workflow for calculating service areas of train stations in Tokyo and analyzing restaurant density. By leveraging Voronoi diagrams, we can identify key insights, such as Ueno-okachimachi station having the highest restaurant density in Tokyo Prefecture.
